@@ -3,7 +3,7 @@
 <br>
 
 ## 🚀 Sobre mim
-Sou um estudante de Engenharia de Software na **Universidade Estadual de Ponta Grossa (UEPG)**, apaixonado por resolver problemas através da tecnologia. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend com o curso de JavaScript da **LionsDev**.
+Sou um estudante de Engenharia de Software na **Universidade Estadual de Ponta Grossa (UEPG)**, gosto de resolver problemas através da tecnologia. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend com o curso de JavaScript da **LionsDev**.
 
 Estou em busca da minha primeira oportunidade de estágio para aplicar meu conhecimento, aprender com profissionais experientes e contribuir para projetos desafiadores.
 
