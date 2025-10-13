@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Sassi! 👋
+# Eu sou o Lucas Sassi!
 
 <br>
 
