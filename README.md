@@ -24,8 +24,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=LucasSassi&style=flat-square&color=blue)
 
-[![Estatísticas do GitHub de LucasSassi](https://github-readme-stats.vercel.app/api?username=LucasSassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/LucasSassi)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSassi&layout=compact&langs_count=7&theme=dracula)](https://github.com/LucasSassi)
+[![Estatísticas do GitHub de LucasSassi](https://github-readme-stats.vercel.app/api?username=LucasSassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=7200)](https://github.com/LucasSassi)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSassi&layout=compact&langs_count=7&theme=dracula&cache_seconds=7200)](https://github.com/LucasSassi)
 
 <br>
 
