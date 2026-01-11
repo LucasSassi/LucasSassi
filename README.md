@@ -37,8 +37,6 @@ Working at a technology company focused on developing innovative software soluti
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucasSassi&style=flat-square&color=blue)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSassi&layout=compact&langs_count=7&theme=dracula)](https://github.com/LucasSassi)
-
 ---
 
 ## 📬 Contact
