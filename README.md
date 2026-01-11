@@ -1,7 +1,7 @@
 # Lucas Sassi
 
 ## 👨‍💻 About Me
-Software Engineering student at **Universidade Estadual de Ponta Grossa (UEPG)** with a strong passion for solving complex problems through technology. Currently enhancing backend development expertise through JavaScript specialization at **LionsDev**.
+Software Engineer in training at the **State University of Ponta Grossa (UEPG)**. I enjoy solving complex problems through technology. Currently, I am improving my backend development skills with studies in **TypeScript**, **Relational Databases - (SQL)**, and **Object-Oriented Programming languages ​​- (JAVA)**.
 
 ### Professional Experience
 **Software Development Intern** at **SAUVVITECH** - Ponta Grossa, PR  
